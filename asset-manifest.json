@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dbphan/Accounting/static/css/main.d1b05096.chunk.css",
+    "main.js": "/dbphan/Accounting/static/js/main.592c570d.chunk.js",
+    "main.js.map": "/dbphan/Accounting/static/js/main.592c570d.chunk.js.map",
+    "runtime-main.js": "/dbphan/Accounting/static/js/runtime-main.c3e93d03.js",
+    "runtime-main.js.map": "/dbphan/Accounting/static/js/runtime-main.c3e93d03.js.map",
+    "static/js/2.37bcc0bb.chunk.js": "/dbphan/Accounting/static/js/2.37bcc0bb.chunk.js",
+    "static/js/2.37bcc0bb.chunk.js.map": "/dbphan/Accounting/static/js/2.37bcc0bb.chunk.js.map",
+    "index.html": "/dbphan/Accounting/index.html",
+    "precache-manifest.ed147a2919e118efc575a0849025ef9c.js": "/dbphan/Accounting/precache-manifest.ed147a2919e118efc575a0849025ef9c.js",
+    "service-worker.js": "/dbphan/Accounting/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/dbphan/Accounting/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.37bcc0bb.chunk.js.LICENSE.txt": "/dbphan/Accounting/static/js/2.37bcc0bb.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/dbphan/Accounting/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3e93d03.js",
+    "static/js/2.37bcc0bb.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.592c570d.chunk.js"
+  ]
+}
